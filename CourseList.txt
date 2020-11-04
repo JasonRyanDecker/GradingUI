@@ -1,0 +1,12 @@
+MATH/ PHYS/
+
+[Applied Math][Physics][Pre-Alg][Applied Sys][Linear Alg][Cal I][Pre-Cal][Cal II][Cal II][Descrite Math]
+
+CSPC/
+
+[Java I][Java II][Comp Org][Databases][Operating Sys][
+
+
+
+
+
